@@ -20,8 +20,6 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
-def point_in_line(a,b,t):
-    return a+(b-a)*t
 
 def square(x0,y0,L):
     Puntos=[[],[]]
