@@ -6,4 +6,4 @@ Karime Ochoa Jacinto karime8aj@gmail.com
 
 GNU/GPL License 3.0
 ## Example of output
-![Fractal]()
+![Fractal](https://github.com/Kadkam8a/DynamicSistems-exam2/blob/main/examen.png)
